@@ -16,5 +16,10 @@ const products = [
         imageUrl: 'assets/skills-dashboard-placeholder.png', // Placeholder image
         purchaseUrl: '#' // Add Lemon Squeezy link when ready
     }
-    // Add your next product here
+        name: 'Filterable Skills Dashboard',
+        price: '$29',
+        description: 'A dynamic, filterable, and searchable component to showcase skills and expertise. Built with vanilla JavaScript, it allows for easy updates and a professional presentation.',
+        imageUrl: 'assets/skills-dashboard-placeholder.png', // Placeholder image
+        purchaseUrl: '#' // Add Lemon Squeezy link when ready
+
 ];
