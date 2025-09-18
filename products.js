@@ -16,7 +16,5 @@ const products = [
         imageUrl: 'assets/skills-dashboard-placeholder.png', // Placeholder image
         purchaseUrl: '#' // Add Lemon Squeezy link when ready
     }
-      // Add Lemon Squeezy link when ready
-
+    // Add your next product here
 ];
-
