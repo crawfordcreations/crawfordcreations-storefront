@@ -10,11 +10,12 @@ const products = [
         purchaseUrl: 'https://crawfordcreations.lemonsqueezy.com/buy/30cdca76-638e-45be-a300-1fa616941921'
     },
     {
-        name: 'Filterable Skills Dashboard',
-        price: '$29',
-        description: 'A dynamic, filterable, and searchable component to showcase skills and expertise. Built with vanilla JavaScript, it allows for easy updates and a professional presentation.',
+        name: 'Interactive Knowledge Nexus | Data Visualization Template',
+        price: '$49',
+        description: 'Transform complex, hierarchical data into a stunning and intuitive interactive experience. The Interactive Knowledge Nexus is a premium, standalone web application template built with pure JavaScript, designed to help you visualize and explore interconnected information with unparalleled clarity. Perfect for developers, educators, and businesses, this template allows you to create dynamic knowledge bases, organizational charts, learning pathways, and more. The fluid animations and clean, professional interface will captivate your users and make your data easy to navigate and understand.',
         imageUrl: 'assets/skills-dashboard-placeholder.png', // Placeholder image
         purchaseUrl: '#' // Add Lemon Squeezy link when ready
     }
     // Add your next product here
 ];
+
